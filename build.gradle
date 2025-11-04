@@ -1,0 +1,76 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'org.vxlauncher'
+version = '1.0-SNAPSHOT'
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.google.code.gson:gson:2.10.1'
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+application {
+    mainClass = 'org.vxlauncher.Main'
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': application.mainClass.get(),
+                'Implementation-Version': project.version
+        )
+    }
+}
+
+tasks.register('fatJar', Jar) {
+    group = 'build'
+    description = 'Create executable JAR with all dependencies'
+    archiveClassifier = 'all'
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+    manifest {
+        attributes(
+                'Main-Class': application.mainClass.get(),
+                'Implementation-Version': project.version
+        )
+    }
+
+    from {
+        configurations.runtimeClasspath.collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
+
+    with jar
+}
+
+tasks.register('buildJar') {
+    group = 'build'
+    description = 'Build simple JAR'
+    dependsOn 'jar'
+}
+
+tasks.register('buildFatJar') {
+    group = 'build'
+    description = 'Build Fat JAR with all dependencies'
+    dependsOn 'fatJar'
+}

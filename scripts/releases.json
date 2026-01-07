@@ -1,0 +1,632 @@
+[
+  {
+    "tag_name": "v0.30.7",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore-0.30.7_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.7/voxelcore-0.30.7_macos.dmg",
+        "size": 4627268
+      },
+      {
+        "name": "voxelcore-0.30.7_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.7/voxelcore-0.30.7_win64.zip",
+        "size": 6535192
+      },
+      {
+        "name": "voxelcore-0.30.7_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.7/voxelcore-0.30.7_x86-64.AppImage",
+        "size": 67986624
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.30.6",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore-0.30.6_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.6/voxelcore-0.30.6_macos.dmg",
+        "size": 4629441
+      },
+      {
+        "name": "voxelcore-0.30.6_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.6/voxelcore-0.30.6_win64.zip",
+        "size": 6480480
+      },
+      {
+        "name": "voxelcore-0.30.6_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.6/voxelcore-0.30.6_x86-64.AppImage",
+        "size": 67978432
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.30.5",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore-0.30.5_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.5/voxelcore-0.30.5_macos.dmg",
+        "size": 4624986
+      },
+      {
+        "name": "voxelcore-0.30.5_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.5/voxelcore-0.30.5_win64.zip",
+        "size": 6482468
+      },
+      {
+        "name": "voxelcore-0.30.5_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.5/voxelcore-0.30.5_x86-64.AppImage",
+        "size": 67978432
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.30.4",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore-0.30.4_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.4/voxelcore-0.30.4_macos.dmg",
+        "size": 4625234
+      },
+      {
+        "name": "voxelcore-0.30.4_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.4/voxelcore-0.30.4_win64.zip",
+        "size": 6480558
+      },
+      {
+        "name": "voxelcore-0.30.4_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.4/voxelcore-0.30.4_x86-64.AppImage",
+        "size": 67978432
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.30.3",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.30.3_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.3/voxelcore.0.30.3_macos.dmg",
+        "size": 4624998
+      },
+      {
+        "name": "voxelcore.0.30.3_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.3/voxelcore.0.30.3_win64.zip",
+        "size": 6326930
+      },
+      {
+        "name": "voxelcore.0.30.3_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.3/voxelcore.0.30.3_x86-64.AppImage",
+        "size": 67978432
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.30.2",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.30.2_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.2/voxelcore.0.30.2_macos.dmg",
+        "size": 4624412
+      },
+      {
+        "name": "voxelcore.0.30.2_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.2/voxelcore.0.30.2_win64.zip",
+        "size": 6326946
+      },
+      {
+        "name": "voxelcore.0.30.2_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.2/voxelcore.0.30.2_x86-64.AppImage",
+        "size": 67978432
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.30.1",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.30.1_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.1/voxelcore.0.30.1_macos.dmg",
+        "size": 4623105
+      },
+      {
+        "name": "voxelcore.0.30.1_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.1/voxelcore.0.30.1_win64.zip",
+        "size": 6323579
+      },
+      {
+        "name": "voxelcore.0.30.1_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.1/voxelcore.0.30.1_x86-64.AppImage",
+        "size": 67974336
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.30.0",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.30.0_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.0/voxelcore.0.30.0_macos.dmg",
+        "size": 4626161
+      },
+      {
+        "name": "voxelcore.0.30.0_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.0/voxelcore.0.30.0_win64.zip",
+        "size": 6323205
+      },
+      {
+        "name": "voxelcore.0.30.0_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.30.0/voxelcore.0.30.0_x86-64.AppImage",
+        "size": 67974336
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.29.4",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.29.4_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.4/voxelcore.0.29.4_macos.dmg",
+        "size": 4531837
+      },
+      {
+        "name": "voxelcore.0.29.4_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.4/voxelcore.0.29.4_win64.zip",
+        "size": 6244078
+      },
+      {
+        "name": "voxelcore.0.29.4_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.4/voxelcore.0.29.4_x86-64.AppImage",
+        "size": 67818688
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.29.3",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.29.3_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.3/voxelcore.0.29.3_macos.dmg",
+        "size": 4543950
+      },
+      {
+        "name": "voxelcore.0.29.3_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.3/voxelcore.0.29.3_win64.zip",
+        "size": 6494128
+      },
+      {
+        "name": "voxelcore.0.29.3_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.3/voxelcore.0.29.3_x86-64.AppImage",
+        "size": 67814592
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.29.2",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.29.2_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.2/voxelcore.0.29.2_macos.dmg",
+        "size": 4544203
+      },
+      {
+        "name": "voxelcore.0.29.2_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.2/voxelcore.0.29.2_win64.zip",
+        "size": 6241041
+      },
+      {
+        "name": "voxelcore.0.29.2_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.2/voxelcore.0.29.2_x86-64.AppImage",
+        "size": 67810496
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.29.1",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.29.1_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.1/voxelcore.0.29.1_macos.dmg",
+        "size": 4548129
+      },
+      {
+        "name": "voxelcore.0.29.1_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.1/voxelcore.0.29.1_win64.zip",
+        "size": 6240746
+      },
+      {
+        "name": "voxelcore.0.29.1_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.1/voxelcore.0.29.1_x86-64.AppImage",
+        "size": 67810496
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.29.0",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.29.0_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.0/voxelcore.0.29.0_macos.dmg",
+        "size": 4529767
+      },
+      {
+        "name": "voxelcore.0.29.0_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.0/voxelcore.0.29.0_win64.zip",
+        "size": 6223075
+      },
+      {
+        "name": "voxelcore.0.29.0_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.29.0/voxelcore.0.29.0_x86-64.AppImage",
+        "size": 67785920
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.28.1",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.28.1_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.28.1/voxelcore.0.28.1_macos.dmg",
+        "size": 4569719
+      },
+      {
+        "name": "voxelcore.0.28.1_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.28.1/voxelcore.0.28.1_win64.zip",
+        "size": 6141447
+      },
+      {
+        "name": "voxelcore.0.28.1_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.28.1/voxelcore.0.28.1_x86-64.AppImage",
+        "size": 67646656
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.28.0",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.28.0_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.28.0/voxelcore.0.28.0_macos.dmg",
+        "size": 4563618
+      },
+      {
+        "name": "voxelcore.0.28.0_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.28.0/voxelcore.0.28.0_win64.zip",
+        "size": 6131213
+      },
+      {
+        "name": "voxelcore.0.28.0_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.28.0/voxelcore.0.28.0_x86-64.AppImage",
+        "size": 67638464
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.27.1",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.27.1_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.27.1/voxelcore.0.27.1_macos.dmg",
+        "size": 4426021
+      },
+      {
+        "name": "voxelcore.0.27.1_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.27.1/voxelcore.0.27.1_win64.zip",
+        "size": 5996823
+      },
+      {
+        "name": "voxelcore.0.27.1_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.27.1/voxelcore.0.27.1_x86-64.AppImage",
+        "size": 67343552
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.27.0",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.27.0_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.27.0/voxelcore.0.27.0_macos.dmg",
+        "size": 4425783
+      },
+      {
+        "name": "voxelcore.0.27.0_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.27.0/voxelcore.0.27.0_win64.zip",
+        "size": 5997526
+      },
+      {
+        "name": "voxelcore.0.27.0_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.27.0/voxelcore.0.27.0_x86-64.AppImage",
+        "size": 67343552
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.26.3",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.26.3_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.3/voxelcore.0.26.3_macos.dmg",
+        "size": 3185989
+      },
+      {
+        "name": "voxelcore.0.26.3_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.3/voxelcore.0.26.3_win64.zip",
+        "size": 5494846
+      },
+      {
+        "name": "voxelcore.0.26.3_x86-64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.3/voxelcore.0.26.3_x86-64.AppImage",
+        "size": 66262208
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.26.2",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.26.2_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.2/voxelcore.0.26.2_macos.dmg",
+        "size": 3176568
+      },
+      {
+        "name": "voxelcore.0.26.2_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.2/voxelcore.0.26.2_win64.zip",
+        "size": 5411954
+      },
+      {
+        "name": "voxelcore.0.26.2_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.2/voxelcore.0.26.2_x86_64.AppImage",
+        "size": 41493696
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.26.1",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.26.1_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.1/voxelcore.0.26.1_macos.dmg",
+        "size": 3178782
+      },
+      {
+        "name": "voxelcore.0.26.1_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.1/voxelcore.0.26.1_win64.zip",
+        "size": 5411445
+      },
+      {
+        "name": "voxelcore.0.26.1_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.1/voxelcore.0.26.1_x86_64.AppImage",
+        "size": 41497792
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.26.0",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.26.0_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.0/voxelcore.0.26.0_macos.dmg",
+        "size": 3179217
+      },
+      {
+        "name": "voxelcore.0.26.0_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.0/voxelcore.0.26.0_win64.zip",
+        "size": 5414532
+      },
+      {
+        "name": "voxelcore.0.26.0_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.26.0/voxelcore.0.26.0_x86_64.AppImage",
+        "size": 41505984
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.25.3",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.25.3_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.3/voxelcore.0.25.3_macos.dmg",
+        "size": 2954289
+      },
+      {
+        "name": "voxelcore.0.25.3_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.3/voxelcore.0.25.3_win64.zip",
+        "size": 3847244
+      },
+      {
+        "name": "voxelcore.0.25.3_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.3/voxelcore.0.25.3_x86_64.AppImage",
+        "size": 40322240
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.25.2",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.25.2_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.2/voxelcore.0.25.2_macos.dmg",
+        "size": 2954231
+      },
+      {
+        "name": "voxelcore.0.25.2_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.2/voxelcore.0.25.2_win64.zip",
+        "size": 3846979
+      },
+      {
+        "name": "voxelcore.0.25.2_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.2/voxelcore.0.25.2_x86_64.AppImage",
+        "size": 40322240
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.25.1",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.25.1_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.1/voxelcore.0.25.1_macos.dmg",
+        "size": 2954204
+      },
+      {
+        "name": "voxelcore.0.25.1_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.1/voxelcore.0.25.1_win64.zip",
+        "size": 3846934
+      },
+      {
+        "name": "voxelcore.0.25.1_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.1/voxelcore.0.25.1_x86_64.AppImage",
+        "size": 40322240
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.25.0",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.25.0_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.0/voxelcore.0.25.0_macos.dmg",
+        "size": 2953130
+      },
+      {
+        "name": "voxelcore.0.25.0_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.0/voxelcore.0.25.0_win64.zip",
+        "size": 3846582
+      },
+      {
+        "name": "voxelcore.0.25.0_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.25.0/voxelcore.0.25.0_x86_64.AppImage",
+        "size": 40322240
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.24.1",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.24.1_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.24.1/voxelcore.0.24.1_macos.dmg",
+        "size": 2837716
+      },
+      {
+        "name": "voxelcore.0.24.1_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.24.1/voxelcore.0.24.1_win64.zip",
+        "size": 3355802
+      },
+      {
+        "name": "voxelcore.0.24.1_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.24.1/voxelcore.0.24.1_x86_64.AppImage",
+        "size": 40199360
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.24.0",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.24.0_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.24.0/voxelcore.0.24.0_macos.dmg",
+        "size": 2837581
+      },
+      {
+        "name": "voxelcore.0.24.0_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.24.0/voxelcore.0.24.0_win64.zip",
+        "size": 3355767
+      },
+      {
+        "name": "voxelcore.0.24.0_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.24.0/voxelcore.0.24.0_x86_64.AppImage",
+        "size": 40199360
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.23.4",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.23.4_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.23.4/voxelcore.0.23.4_macos.dmg",
+        "size": 2758940
+      },
+      {
+        "name": "voxelcore.0.23.4_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.23.4/voxelcore.0.23.4_win64.zip",
+        "size": 3229730
+      },
+      {
+        "name": "voxelcore.0.23.4_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.23.4/voxelcore.0.23.4_x86_64.AppImage",
+        "size": 40117440
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.23.3",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.23.3_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.23.3/voxelcore.0.23.3_macos.dmg",
+        "size": 2758848
+      },
+      {
+        "name": "voxelcore.0.23.3_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.23.3/voxelcore.0.23.3_win64.zip",
+        "size": 3229640
+      },
+      {
+        "name": "voxelcore.0.23.3_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.23.3/voxelcore.0.23.3_x86_64.AppImage",
+        "size": 40117440
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.23.2",
+    "draft": false,
+    "assets": [
+      {
+        "name": "voxelcore.0.23.2_macos.dmg",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.23.2/voxelcore.0.23.2_macos.dmg",
+        "size": 2758432
+      },
+      {
+        "name": "voxelcore.0.23.2_win64.zip",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.23.2/voxelcore.0.23.2_win64.zip",
+        "size": 2783316
+      },
+      {
+        "name": "voxelcore.0.23.2_x86_64.AppImage",
+        "browser_download_url": "https://github.com/MihailRis/voxelcore/releases/download/v0.23.2/voxelcore.0.23.2_x86_64.AppImage",
+        "size": 40113344
+      }
+    ]
+  }
+]

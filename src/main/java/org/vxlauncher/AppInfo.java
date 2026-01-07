@@ -13,7 +13,7 @@ public final class AppInfo
     private static final String APP_NAME = "VX Launcher";
     private static final String GAME_NAME = "voxelcore";
 
-    private static final String APP_VERSION = "1.0.0";
+    private static final String APP_VERSION = "1.2";
 
     private static final int APP_WIDTH = 700;
     private static final int APP_HEIGHT = 600;

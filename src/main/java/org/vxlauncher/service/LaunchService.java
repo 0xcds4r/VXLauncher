@@ -8,7 +8,10 @@ package org.vxlauncher.service;
 
 import org.vxlauncher.AppInfo;
 import org.vxlauncher.model.OSType;
+
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.function.Consumer;
 
@@ -39,7 +42,9 @@ public class LaunchService
             case WINDOWS: {
                 File exeFile = fileService.findExecutable(versionDir, ".exe");
                 if (exeFile == null) throw new Exception("Исполняемый файл не найден");
-                pb = new ProcessBuilder(exeFile.getAbsolutePath());
+
+                pb = new ProcessBuilder("cmd", "/c", "start", "\"\"",
+                        "\"" + exeFile.getAbsolutePath() + "\"");
                 break;
             }
 
@@ -69,7 +74,32 @@ public class LaunchService
         }
 
         pb.directory(new File(versionDir));
+
+        pb.redirectErrorStream(true);
+
         Process process = pb.start();
+
+        new Thread(() -> {
+            try (BufferedReader reader = new BufferedReader(
+                    new InputStreamReader(process.getInputStream()))) {
+                String line;
+                while ((line = reader.readLine()) != null) {
+                    logger.accept("[Процесс] " + line);
+                }
+            } catch (Exception e) {
+
+            }
+        }).start();
+
+        new Thread(() -> {
+            try {
+                int exitCode = process.waitFor();
+                logger.accept("Процесс завершился с кодом: " + exitCode);
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+            }
+        }).start();
+
         logger.accept("Игра запущена (PID: " + process.pid() + ")");
     }
 }

@@ -95,7 +95,9 @@ public class FileService
             for (File file : allFiles)
             {
                 if (file.isFile() && file.getName().toLowerCase().endsWith(extension.toLowerCase())) {
-                    return file;
+                    if (!file.getName().equalsIgnoreCase("vctest.exe")) {
+                        return file;
+                    }
                 }
             }
         }

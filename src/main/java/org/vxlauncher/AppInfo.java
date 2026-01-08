@@ -15,8 +15,8 @@ public final class AppInfo
 
     private static final String APP_VERSION = "1.2";
 
-    private static final int APP_WIDTH = 700;
-    private static final int APP_HEIGHT = 600;
+    private static final int APP_WIDTH = 1280;
+    private static final int APP_HEIGHT = 720;
 
     private static final String APP_DIR = System.getProperty("user.home") + File.separator + APP_NAME.replace(" ", "");
     private static final String VERSIONS_DIR = APP_DIR + File.separator + "versions";

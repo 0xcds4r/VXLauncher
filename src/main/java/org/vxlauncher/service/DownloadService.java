@@ -73,7 +73,7 @@ public class DownloadService
             HttpRequest req = HttpRequest.newBuilder()
                     .GET()
                     .uri(URI.create(urlStr))
-                    .header("User-Agent", "VXLauncher/1.0")
+                    .header("User-Agent", "VXLauncher/1.2")
                     .timeout(Duration.ofMinutes(10))
                     .build();
 
@@ -143,7 +143,7 @@ public class DownloadService
             HttpRequest req = HttpRequest.newBuilder()
                     .GET()
                     .uri(URI.create(urlStr))
-                    .header("User-Agent", "VXLauncher/1.0")
+                    .header("User-Agent", "VXLauncher/1.2")
                     .header("Range", "bytes=" + start + "-" + end)
                     .timeout(Duration.ofMinutes(10))
                     .build();
@@ -273,7 +273,7 @@ public class DownloadService
             HttpRequest head = HttpRequest.newBuilder()
                     .method("HEAD", HttpRequest.BodyPublishers.noBody())
                     .uri(URI.create(urlStr))
-                    .header("User-Agent", "VXLauncher/1.0")
+                    .header("User-Agent", "VXLauncher/1.2")
                     .timeout(Duration.ofSeconds(5))
                     .build();
 
